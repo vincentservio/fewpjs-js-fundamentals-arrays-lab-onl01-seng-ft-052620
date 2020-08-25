@@ -2,4 +2,5 @@
 const append = ['Milo','Otis', 'Garfield']
 append.push("Odie")
 
-const prepend = 
+const prepend = ['Milo','Otis', 'Garfield']
+prepend.push("Odie")
