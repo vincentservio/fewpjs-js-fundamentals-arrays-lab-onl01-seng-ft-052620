@@ -7,3 +7,4 @@ prepend.unshift("Odie")
 
 const removeLast = ["Milo", "Otis", "Garfield"]
 removeLast.pop()
+
